@@ -1,0 +1,75 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: 8jr0lWZZFFxPz5M0tIk5jSQznYc=
+
+Name: firmware-update/adspso.bin
+SHA1-Digest: edIWF+G/IPy9gBCQj5pc5YLhwfw=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: BjEWgNvC9cNFbRt/mD9RhOsfcls=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: HNV/jkFvzlC1ULP+svCOc3lfmJ4=
+
+Name: vendor.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: compatibility.zip
+SHA1-Digest: otq/ONIJ8o8uvGjpigeBQoQ/QAY=
+
+Name: system.patch.dat
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: vendor.new.dat.br
+SHA1-Digest: IT56gstKISlIOAvOgNuFFqM0DUE=
+
+Name: system.transfer.list
+SHA1-Digest: c0wnYE7mWtVQ6RqOhvc+nuBqydE=
+
+Name: boot.img
+SHA1-Digest: Dc5eUIyOcu6dt1czC0ZNJoenrPI=
+
+Name: firmware-update/cmnlib_30.mbn
+SHA1-Digest: dGU/idk9+gGXHvM9KWZ2JDqr+/E=
+
+Name: firmware-update/lksecapp.mbn
+SHA1-Digest: MawIFqKsVd7KcBh+XrTMUpK07BM=
+
+Name: firmware-update/splash.img
+SHA1-Digest: Hnex2NPUgxDUlu2lw0r9WEhwCg8=
+
+Name: firmware-update/devcfg.mbn
+SHA1-Digest: s2EveR0hr+dQhiGWY7pNgRCBtgI=
+
+Name: vendor.transfer.list
+SHA1-Digest: Zyy2sCRPJN2DRyseR8SO33jm9Q8=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: qC5jVszyeBR7WFZZACVAihn69wA=
+
+Name: system.new.dat.br
+SHA1-Digest: iZfONaEtOdwSnb/fsI3aM8blrUs=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: MDSI0wjVDt6WWVWYGht0Ic8pU+A=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: 9Z2F1IGABZBiJz4ofYXrhcLbw6c=
+
+Name: firmware-update/keymaster64.mbn
+SHA1-Digest: xIGJHodWguWiK9rfGxaa2HE8M7k=
+
+Name: firmware-update/sbl1.mbn
+SHA1-Digest: ViHwAMratLrGe3DzzclSwi0s2v0=
+
+Name: firmware-update/cmnlib64_30.mbn
+SHA1-Digest: LUHcUa46MReg8222RLpu3tHhYzE=
+
+Name: firmware-update/emmc_appsboot.mbn
+SHA1-Digest: /QjSoqItujQcho2o0L7iKtRypTg=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: wEK7jDuT2GuMBtHT5KuxvJHOQII=
+

@@ -1,0 +1,8 @@
+mcfg_sw/generic/common/row/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/common/test/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/russia/beeline/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/russia/megafon/volte/mcfg_sw.mbn
+mcfg_sw/generic/common/w_one/commerci/mcfg_sw.mbn
+mcfg_sw/generic/common/est_teli/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/common/plus/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/latam/amx/volte/mcfg_sw.mbn
